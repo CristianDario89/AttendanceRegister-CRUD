@@ -4,7 +4,7 @@ Missing work or school needs, it's a so important information needing to be save
 
 This is an app to save assistance data, you can choose among five options to know the reason:  Present, Absent, Late, Sick, Authorised.
 
-Besides, you will find four sections where you can control and manipulate all the students data, that is, input a new one, delete and upgrade.
+Besides, you will find four sections where you can control and manipulate all the students data, that is, insert a new one, delete and upgrade.
 
 User: Admin
 Password: 123
